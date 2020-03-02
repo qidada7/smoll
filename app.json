@@ -20,20 +20,20 @@
       {
         "pagePath": "pages/index/index",
         "text": "你",
-        "iconPath": "static/icons/home-default.png",
-        "selectedIconPath": "static/icons/home-active.png"
+        "iconPath": "icons/home-default.png",
+        "selectedIconPath": "icons/home-active.png"
       },
       {
         "pagePath": "pages/chou/chou",
         "text": "瞅",
-        "iconPath": "static/icons/ticket-default.png",
-        "selectedIconPath": "static/icons/ticket-active.png"
+        "iconPath": "icons/ticket-default.png",
+        "selectedIconPath": "icons/ticket-active.png"
       },
       {
         "pagePath": "pages/sha/sha",
         "text": "啥",
-        "iconPath": "static/icons/face-default.png",
-        "selectedIconPath": "static/icons/face-active.png"
+        "iconPath": "icons/face-default.png",
+        "selectedIconPath": "icons/face-active.png"
       }
     ]
   },

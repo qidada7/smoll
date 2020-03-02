@@ -2,13 +2,13 @@
 <!-- 配置轮播图 -->
 <swiper indicator-dots circular autoplay interval="2000">
 <swiper-item>
-<image src="/static/uploads/item_1.png"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/item_1.png"></image>
 </swiper-item>
 <swiper-item>
-<image src="/static/uploads/item_2.png"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/item_2.png"></image>
 </swiper-item>
 <swiper-item>
-<image src="/static/uploads/item_3.png"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/item_3.png"></image>
 </swiper-item>
 </swiper>
 <!-- 标题 -->
@@ -17,7 +17,7 @@
 </view>
 <!-- 内容展示 -->
 <view class="tag">
-<image src="/static/uploads/slide_1.jpg"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/slide_1.jpg"></image>
 <view class="info">
 <view class="title">天不生我李淳罡，剑道万古如长夜</view>
 <view class="pin">
@@ -27,7 +27,7 @@
 </view>
 </view>
 <view class="tag">
-<image src="/static/uploads/slide_2.jpg"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/slide_2.jpg"></image>
 <view class="info">
 <view class="title">天不生我李淳罡，剑道万古如长夜</view>
 <view class="pin">
@@ -37,7 +37,7 @@
 </view>
 </view>
 <view class="tag">
-<image src="/static/uploads/slide_3.jpg"></image>
+<image src="https://qidada7.github.io/smoll/static/uploads/slide_3.jpg"></image>
 <view class="info">
 <view class="title">天不生我李淳罡，剑道万古如长夜</view>
 <view class="pin">
