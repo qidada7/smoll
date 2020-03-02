@@ -1,0 +1,48 @@
+
+<!-- 配置轮播图 -->
+<swiper indicator-dots circular autoplay interval="2000">
+<swiper-item>
+<image src="/static/uploads/item_1.png"></image>
+</swiper-item>
+<swiper-item>
+<image src="/static/uploads/item_2.png"></image>
+</swiper-item>
+<swiper-item>
+<image src="/static/uploads/item_3.png"></image>
+</swiper-item>
+</swiper>
+<!-- 标题 -->
+<view class="buy">
+<text>今日特卖</text>
+</view>
+<!-- 内容展示 -->
+<view class="tag">
+<image src="/static/uploads/slide_1.jpg"></image>
+<view class="info">
+<view class="title">天不生我李淳罡，剑道万古如长夜</view>
+<view class="pin">
+天上剑仙三百万，见我也需尽低眉
+</view>
+<view class="jian">剑来</view>
+</view>
+</view>
+<view class="tag">
+<image src="/static/uploads/slide_2.jpg"></image>
+<view class="info">
+<view class="title">天不生我李淳罡，剑道万古如长夜</view>
+<view class="pin">
+天上剑仙三百万，见我也需尽低眉
+</view>
+<view class="jian">剑来</view>
+</view>
+</view>
+<view class="tag">
+<image src="/static/uploads/slide_3.jpg"></image>
+<view class="info">
+<view class="title">天不生我李淳罡，剑道万古如长夜</view>
+<view class="pin">
+天上剑仙三百万，见我也需尽低眉
+</view>
+<view class="jian">剑来</view>
+</view>
+</view>
